@@ -1,0 +1,147 @@
+#a{
+    background-color: rgba(59, 89, 152);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    
+    height: 65px;
+    width: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+ }
+h1{
+    position: absolute;
+    left: 260px;
+    top: -3px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.email{
+    position: absolute;
+    left: 875px;
+    
+}
+#pass{
+    position: absolute;
+    left: 1060px;
+    bottom: 665px;
+    
+}
+#login-btn{
+    position: absolute;
+    left: 1240px;
+    bottom: 665px;
+    background-color: rgba(66, 103, 178);
+    color: white;
+    border-color: rgba(66, 103, 178);
+    border-style:groove;
+    border-radius: 3px;
+}
+#f1{
+    position: absolute;
+    left: 1090px;
+    bottom: 640px;
+    color:rgb(194, 191, 191);
+    text-decoration: none;
+}
+#text{
+    position: relative;
+    left: 280px;
+    top: 110px;
+    font-size: 30px;
+    width: 500px;
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(55, 55, 55);
+}
+#b{
+    position: relative;
+    left: 865px;
+    border: 1px solid rgba(55, 55, 55);
+    width: 350px;
+    height: 300px;
+    bottom: 100px;
+    padding: 20px;
+    border-radius: 7px;
+    background-color: white;
+    box-shadow: -1px 1px 26px 1px rgba(0,0,0,0.20);
+    
+
+}
+.mail{
+    width: 330px;
+    height: 40px;
+    margin-bottom: 20px;
+    border: 1px solid rgba(55, 55, 55);
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#b1{
+    width: 350px;
+    height: 40px;
+    background-color: rgba(8, 102, 255);
+    color: white;
+    border-color: rgba(8, 102, 255);
+    border-style:groove;
+    border-radius: 5px;
+}
+#f2{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+#f2:hover{
+    text-decoration: underline;
+}
+#f3{
+    margin-top: 30px;
+    border-top: 1px solid;
+    border-color: rgb(168, 162, 162);
+    
+}
+#b2{
+    width: 200px;
+    height: 40px;
+    background-color: rgba(66, 183, 42);
+    border-color: rgba(66, 183, 42);
+    color: white;
+    border-radius: 5px;
+    position: absolute;
+    left: 100px;
+    top: 270px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h4{
+    position: absolute;
+    left: 865px;
+    top: 570px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#page-span{
+    color: rgba(66, 103, 178);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#page-span:hover{
+    text-decoration: underline;
+}
+#f1:hover{
+    text-decoration: underline;
+}
+.mail:active{
+    border-color: rgba(66, 103, 178);
+}
+body{
+    background-color: rgba(242, 244, 247);
+}
